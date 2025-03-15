@@ -1,0 +1,23 @@
+{
+  "name": "proposal",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitzyMan/Proposal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LitzyMan/Proposal/issues"
+  },
+  "homepage": "https://github.com/LitzyMan/Proposal",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
