@@ -39,3 +39,10 @@ img {
     width: 666px;
     height: 500px;
 }
+@media (max-width: 600px) {
+    .choice {
+      display: flex; /* Maintenir les boutons en ligne */
+      flex-wrap: nowrap; /* Empêcher les boutons de passer à la ligne suivante */
+      justify-content: center; /* Centrer les boutons */
+    }
+  }
