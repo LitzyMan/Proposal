@@ -1,0 +1,41 @@
+body {
+    background-color: #ffb3c6;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #fb6f92;
+    font-weight: 900;
+}
+#yes_button {
+    background-color: #ff758f;
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 200px;
+    border: none;
+
+}
+#yes_button:hover {
+    background-color: #ff4d6d;
+}
+
+#no_button {
+    background-color: #ff8fab; 
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+#no_button:hover {
+    background-color: #c9184a;
+}
+
+img {
+    width: 666px;
+    height: 500px;
+}
