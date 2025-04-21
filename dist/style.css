@@ -23,6 +23,17 @@ h1 {
 #yes_button:hover {
     background-color: #ff4d6d;
 }
+#yes_button2 {
+    background-color: #ff758f;
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 200px;
+    border: none;
+
+}
+#yes_button2:hover {
+    background-color: #ff4d6d;
+}
 
 #no_button {
     background-color: #ff8fab; 
